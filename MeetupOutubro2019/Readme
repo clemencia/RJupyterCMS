@@ -1,1 +1,9 @@
-Física no tidyverse
+# Física no tidyverse
+
+Nesse notebook tem uma adaptação do tutorial de análise com R do CMS Open Data, traduzido ao português e incrementado com mais alguns resultados.
+
+Se não visualizar o notebook por aqui, por favor accessar no nbviewer
+
+https://nbviewer.jupyter.org/github/clemencia/RStuff/blob/master/MeetupOutubro2019/CMS-Open-Data-Tutorial-R-tidyverse.ipynb
+
+
