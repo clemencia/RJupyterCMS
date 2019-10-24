@@ -1,4 +1,4 @@
-#Física no tidyverse
+# Física no tidyverse
 
 Nesse notebook tem uma adaptação do tutorial de análise com R do CMS Open Data, traduzido ao português e incrementado com mais alguns resultados.
 
@@ -8,4 +8,4 @@ https://nbviewer.jupyter.org/github/clemencia/RStuff/blob/master/MeetupOutubro20
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clemencia/RStuff/master?filepath=MeetupOutubro2019%2FCMS-Open-Data-Tutorial-R-tidyverse.ipynb)
-Copy markdown link to clipboard
+
